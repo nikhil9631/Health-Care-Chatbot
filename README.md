@@ -21,6 +21,11 @@ This is a Python-based healthcare chatbot that answers user queries using machin
 - heart-disease.csv → dataset
 - Data_Analysis.ipynb → data analysis
 
+## Author
+Nikhil Kumar
+
+Note: This project is based on an original implementation by Amber Kakkar and has been modified and improved.
+
 ## Installation
 
 Install dependencies:
