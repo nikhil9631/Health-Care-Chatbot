@@ -3,6 +3,9 @@
 ## Overview
 This is a Python-based healthcare chatbot that answers user queries using machine learning and predefined intents.
 
+## Screenshot
+![Chatbot UI](screenshot.png)
+
 ## Features
 - Healthcare chatbot system
 - GUI-based interaction
