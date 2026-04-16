@@ -1,0 +1,22 @@
+{
+  "best_model": "neural_network",
+  "comparison": {
+    "logistic_regression": {
+      "train_accuracy": 0.9975429975429976,
+      "val_accuracy": 0.5784313725490197
+    },
+    "svm": {
+      "train_accuracy": 0.9656019656019657,
+      "val_accuracy": 0.5686274509803921
+    },
+    "neural_network": {
+      "train_accuracy": 0.9877150058746338,
+      "val_accuracy": 0.6176470518112183,
+      "epochs_run": 66
+    }
+  },
+  "num_intents": 31,
+  "vocab_size": 506,
+  "total_patterns": 509,
+  "vectorizer": "TF-IDF"
+}
